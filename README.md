@@ -1,27 +1,23 @@
-M Edition Dolphin OS (Professional v3.0.0)
-behdadmehrnia - 2018
-
-# Ideal For today, Need For toomorow
-It Is An PHP Project And Plays On an Apache Server.
-You Can Manage Your Hosting With M Edition OS. You Can Write ,Read ,Delete ,Edit And ...
-Do Your Works By Just One Click Or Enter Your Command in the terminal
-Multi Users : Build a Private Location For Save Your Information
-File Browser : Browser In Your Files And Edit In The Your Files
-Terminal : Enter less And Do All Your Works! For Example , Enter terminal # url('%mysite') And Go to Your Site And See That!
-Install Apps : Install Your MPK Files In Your OS And Use Those. Enjoy!!!
-FTP Reader : Manage Your Site From Ftp!
-Cloud : Connect Your Hosting to Cloud And Use Cloud's Storage
-Storage : A Custom Storage For Save Your Informations
-Start Menu : Fast Access to Your Apps!
-Users : Share Contents to M Users Client to See Users
-Store : Download Application And Install Those
-Custom Option : Set Custom Your Account Out Of See Other Accounts (In Safe)!
-Walpaper : Set Walpaper For Your Account , Your Custom Walpaper With png Format!
-From Web But More Of Web : Services For Your Computer And Device As Safe Informations, Task Killer, Boost Client
-Easy Manage : Manage Your Account, Just With Click On Your Username
-Showing OS On Working : Work OS On Your System Show's On The Taskbar And On Offline Mode, It Stops And Doesnt Work (Required Network)
-Taskbar : See Your Apps , Fastest!!!!
-And ...
-Enjoy Case In The :
-
-Thanks You From Noco Programing Team
+# M Edition OS
+This is a Project For Make Easy Your Web Works.
+Delete, Remove, Edit, Move, Copy, Publish, Restore, Share And Read Your Files.
+Play Games ... Enjoy! With M Games!
+# Future Features
+In Game Tools. For Example:
+<ul>
+  <li>Game Server Connection</li>
+  <li>Live Multiplayer Game</li>
+  <li>Run Old Games Supported! (Flash, Atari, OGPK)</li>
+</ul>
+In Media Tools. For Example:
+<ul>
+  <li>Best Quality</li>
+  <li>Double Sound</li>
+  <li>Run All Sounds Supported! (MP3, WEBM, OGG)</li>
+</ul>
+# New Idea, Web Partitioning!!!
+Place Your Hosting On OS And Partitioning That.
+<hr />
+`M Edition OS` is Registered For Noco Programming Team 2016 - 2019
+`M` is Bookmark For Noco Web Projects
+This Project Owned By Behdadmehrnia , Noco Company
