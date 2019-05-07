@@ -1,0 +1,12 @@
+<?php
+
+// Explorer Executable File
+
+function explorerments() {
+    return null; // Check Returns
+}
+
+function main() { // App Runs With This Function
+    echo "Running Explorer-Stable ...<script>setInterval(function () {window.location.assign('../start.php')},2000);</script>";
+    return 0;
+}
